@@ -1,4 +1,5 @@
 # gimbaled-complete-tracking
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23669210.svg)](https://doi.org/10.5281/zenodo.23669210)
 
 Simulation and figure-generation code for the accompanying paper:
 
@@ -229,6 +230,25 @@ If you use this code, please cite the paper:
     primaryClass = {eess.SY},
     url = {https://arxiv.org/abs/2610.31962},
     doi = {10.48550/arXiv.2610.31962},
+}
+```
+
+The citation above will be updated once the journal version of the paper is released.
+
+The code itself is archived on Zenodo. To cite it directly:
+
+> I. J. Willebeek-LeMair, "Simulation code for Practical Complete Tracking
+> Through Gimbaled Unidirectional Actuation with Application to Multirotor
+> UAVs," Zenodo, 2026. doi: 10.5281/zenodo.23669210
+
+```bibtex
+@software{willebeek_lemair_code_2026,
+    title     = {Simulation code for Practical Complete Tracking Through Gimbaled Unidirectional Actuation with Application to Multirotor {UAVs}},
+    author    = {Willebeek-LeMair, Ian J.},
+    year      = {2026},
+    publisher = {Zenodo},
+    doi       = {10.5281/zenodo.23669210},
+    url       = {https://doi.org/10.5281/zenodo.23669210}
 }
 ```
 
