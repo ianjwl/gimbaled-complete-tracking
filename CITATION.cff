@@ -14,6 +14,12 @@ authors:
     email: ianwl@vt.edu
     affiliation: Virginia Tech
     orcid: 'https://orcid.org/0009-0008-8513-2673'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23669210
+    description: >-
+      Zenodo concept DOI (resolves to the latest archived
+      release)
 repository-code: 'https://github.com/ianjwl/gimbaled-complete-tracking'
 abstract: >-
   MATLAB code for "Practical Complete Tracking Through
@@ -22,7 +28,7 @@ abstract: >-
   vehicles with gimbaled unidirectional actuators that stays
   well defined through free fall. Includes the controller,
   reference trajectory, and scripts that reproduce every
-  figure.
+  data and geometry figure.
 keywords:
   - Aerospace control
   - Autonomous vehicles
@@ -33,7 +39,7 @@ keywords:
   - Set stability
   - Underactuated vehicles
 license: MIT
-version: 1.0.0
+version: 1.0.1
 date-released: '2026-10-26'
 contact:
   - given-names: Ian J.
@@ -41,7 +47,9 @@ contact:
     email: ianjwlemair@gmail.com
 preferred-citation:
   type: article
-  title: Practical Complete Tracking Through Gimbaled Unidirectional Actuation with Application to Multirotor UAVs
+  title: >-
+    Practical Complete Tracking Through Gimbaled Unidirectional Actuation with
+    Application to Multirotor UAVs
   authors:
     - given-names: Ian J.
       family-names: Willebeek-LeMair
