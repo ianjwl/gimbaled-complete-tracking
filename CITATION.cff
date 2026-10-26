@@ -1,0 +1,59 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Simulation code for Practical Complete Tracking Through
+  Gimbaled Unidirectional Actuation with Application to
+  Multirotor UAVs
+message: 'If you use this code, please cite the accompanying paper.'
+type: software
+authors:
+  - given-names: Ian J.
+    family-names: Willebeek-LeMair
+    email: ianwl@vt.edu
+    affiliation: Virginia Tech
+    orcid: 'https://orcid.org/0009-0008-8513-2673'
+repository-code: 'https://github.com/ianjwl/gimbaled-complete-tracking'
+abstract: >-
+  MATLAB code for "Practical Complete Tracking Through
+  Gimbaled Unidirectional Actuation with Application to
+  Multirotor UAVs," which presents a tracking controller for
+  vehicles with gimbaled unidirectional actuators that stays
+  well defined through free fall. Includes the controller,
+  reference trajectory, and scripts that reproduce every
+  figure.
+keywords:
+  - Aerospace control
+  - Autonomous vehicles
+  - Control theory
+  - Lyapunov methods
+  - Nonlinear control systems
+  - Quadrotors
+  - Set stability
+  - Underactuated vehicles
+license: MIT
+version: 1.0.0
+date-released: '2026-10-26'
+contact:
+  - given-names: Ian J.
+    family-names: Willebeek-LeMair
+    email: ianjwlemair@gmail.com
+preferred-citation:
+  type: article
+  title: Practical Complete Tracking Through Gimbaled Unidirectional Actuation with Application to Multirotor UAVs
+  authors:
+    - given-names: Ian J.
+      family-names: Willebeek-LeMair
+      affiliation: Virginia Tech
+      orcid: 'https://orcid.org/0009-0008-8513-2673'
+    - given-names: Craig A.
+      family-names: Woolsey
+      affiliation: Virginia Tech
+      orcid: 'https://orcid.org/0000-0003-3483-7135'
+  journal: arXiv preprint
+  status: preprint
+  year: 2026
+  month: 10
+  doi: 10.48550/arXiv.2610.31962
+  url: 'https://arxiv.org/abs/2610.31962'
